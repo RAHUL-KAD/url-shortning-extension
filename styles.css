@@ -1,0 +1,47 @@
+body {
+    width: 300px;
+    /* Adjust width as needed */
+    height: 300px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+h1 {
+    font-size: 15px;
+}
+
+a {
+    color: blue   
+}
+
+p {
+    max-width: 200px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+#url {
+    font-size: 12px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#loader {
+    display: none;
+    text-align: center;
+}
+
+#shortenBtn {
+    margin-bottom: 20px;
+    /* Add margin between button and response */
+}
+
+.tab-url {
+    color: blue;
+  }
+  
+.short-url-response{
+    color: blue;
+  }

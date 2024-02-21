@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "URL Shortener by freetoolsarebest.com",
+    "version": "0.1",
+    "description": "Shorten URLs.",
+    "permissions": ["activeTab"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      }
+  }
+  
